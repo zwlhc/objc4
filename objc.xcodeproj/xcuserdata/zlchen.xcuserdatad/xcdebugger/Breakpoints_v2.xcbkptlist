@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A0E7356-D2F8-4D5E-83C8-762891C95B4C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48CD8DE4-8CE6-4DBC-9DC1-1B31F8AAC0FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-runtime-new.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7975"
+            endingLineNumber = "7975"
+            landmarkName = "_class_createInstanceFromZone(cls, extraBytes, zone, OBJECT_CONSTRUCT_NONE)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "48CD8DE4-8CE6-4DBC-9DC1-1B31F8AAC0FA - 7d37deaaab948c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "class_createInstance"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zlchen/Downloads/opensource/objc4-818.2/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7975"
+                  endingLineNumber = "7975"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  uuid = "48CD8DE4-8CE6-4DBC-9DC1-1B31F8AAC0FA - 2f18b54275ce860"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_objc_rootAllocWithZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zlchen/Downloads/opensource/objc4-818.2/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7975"
+                  endingLineNumber = "7975"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "48CD8DE4-8CE6-4DBC-9DC1-1B31F8AAC0FA - b66789d3d0bd8ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_object_copyFromZone(objc_object*, unsigned long, void*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zlchen/Downloads/opensource/objc4-818.2/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7975"
+                  endingLineNumber = "7975"
+                  offsetFromSymbolStart = "185">
+               </Location>
+               <Location
+                  uuid = "48CD8DE4-8CE6-4DBC-9DC1-1B31F8AAC0FA - 911805e66594e50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "class_createInstanceFromZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zlchen/Downloads/opensource/objc4-818.2/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7975"
+                  endingLineNumber = "7975"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
